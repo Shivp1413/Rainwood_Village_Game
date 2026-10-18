@@ -161,3 +161,7 @@ Put on your headphones, invite your friends, and make the village your own.
 
 One HTML file. One living world. Endless little adventures.
 
+## Use of AI in this project:
+
+**This is only for Educational Purposes and I have used AI to assist me creating this project.**
+
